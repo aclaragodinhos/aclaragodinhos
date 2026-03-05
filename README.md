@@ -7,7 +7,7 @@ Sou estudante de desenvolvimento web. Atualmente, estou focada em aprender novas
 - Criando projetos para consolidar meu aprendizado.
 
 ### 🛠 Tecnologias em estudo
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - GitHub
